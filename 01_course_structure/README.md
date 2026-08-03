@@ -1,5 +1,6 @@
 # Course structure
 
+TODO: course structure video
 
 **part 1 - video on course structure**
 
