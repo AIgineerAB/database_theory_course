@@ -12,7 +12,7 @@ For this course, we will familiarize ourselves with some very fundamentals of SQ
 
 For simplicity we won't install it locally, instead we'll work with an online editor called Github codespaces or replit. 
 
-Start with creating an [](). 
+Start with creating an [account in Github](). 
 
 ## CREATE TABLE
 
