@@ -8,8 +8,8 @@
 
 **part 2 - What is the role of a database administrator?**
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+<a href="https://youtu.be/6sIO-f_rDnE" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databasteori/dba_role.png?raw=true" alt="dba role" width="600">
 </a>
 
 
