@@ -1,31 +1,12 @@
 # Course structure
 
-TODO: course structure video
-
-**part 1 - video on course structure**
-
-
-<!-- <a href="https://www.youtube.com/watch?v=YZxZt7plGyI" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/python_videos/course_structure.png?raw=true" alt="course structure" width="600">
-</a> -->
-
-**part 2 - navigating github repository**
-
-TODO: video
-<!-- 
-<a href="https://youtu.be/woVKB99-KFg" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/sql/01_course_structure_2.png?raw=true" alt="dbeaver navigation" width="600">
-</a> -->
-
-TODO: make this table fit your course
-
 All course material can be found in this github repository. The course material is described in this table
 
 | Type of material | Description                                        | Location                     |
 | ---------------- | -------------------------------------------------- | ---------------------------- |
 | videos           | video lecture link                                 | readmes in lecture directory |
 | lecture slides   | slides used in the videos                          | lecture directory            |
-| code notebook    | jupyter notebooks with full annotations            | lecture directory            |
+| code             | SQL scripts                                        | lecture directory            |
 | exercises        | some exercises and glossary                        | exercise directory           |
 | readme           | lecture notes, links to videos and other resources | lecture directory            |
 
