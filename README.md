@@ -1,11 +1,11 @@
 # Database theory fundamentals for DBA
 
-In this course, you'll dive into: 
+In this course, you'll dive into:
 
 - concepts of data and databases
 - introduction to database administrators role
 - data modeling - conceptual and logical
-- SQL and postgres 
+- SQL and postgres
 
 For this you will be using the following tools:
 

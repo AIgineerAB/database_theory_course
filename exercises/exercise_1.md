@@ -1,4 +1,4 @@
-# Exercise 0 - What is data, databases and SQL 
+# Exercise 1 - Data modeling and implementation
 
 In this exercise, you get to familiarize yourself with ...
 
