@@ -1,4 +1,3 @@
--- Category: DQL (Data Query Language)
 -- Purpose: Basic SELECT queries
 
 -- Select every column and row from the customers table.

@@ -1,5 +1,4 @@
--- Category: DDL (Data Definition Language)
--- Purpose: Create table structures
+-- Purpose: Create tables
 
 CREATE TABLE customers (
     customer_id SERIAL PRIMARY KEY,

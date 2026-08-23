@@ -1,4 +1,3 @@
--- Category: DML (Data Manipulation Language)
 -- Purpose: Insert sample data
 
 INSERT INTO customers (customer_name, city, signup_date) VALUES

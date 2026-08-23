@@ -1,4 +1,3 @@
--- Category: DQL (Data Query Language)
 -- Purpose: Filtering rows with WHERE
 
 -- Find customers who live in New York.
