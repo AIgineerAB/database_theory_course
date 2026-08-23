@@ -16,22 +16,13 @@ In this video we go through theory and for SQL we create table, insert data and 
 
 **part 2 - Querying and filtering the data**
 
+<a href="https://youtu.be/51_vaPAH-DU" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databasteori/postgres_avien.png?raw=true" alt="SQL basics" width="600">
+</a>
+
+
 ## Setup
 
-For simplicity we won't install it locally, instead we'll work with an online editor called Github codespaces or replit.
+For simplicity we won't install it locally, instead we'll work with [avien playground here](https://aiven.io/tools/pg-playground)
 
-Start with creating an [account in Github]().
 
-## CREATE TABLE
-
-## INSERT DATA
-
-## SELECT
-
-## WHERE
-
-## DROP TABLE
-
-## Other videos 📹
-
-## Read more 👓
