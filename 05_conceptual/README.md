@@ -1,12 +1,37 @@
-# TITLE
+# Entity relation diagram (ERD) - conceptual
 
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+In this lecture we'll go into the conceptual part of data modeling
+
+**part 1 theory**
+
+<a href="https://youtu.be/pV7myOaTRZ4" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_modeling/erc_conceptual.png?raw=true" alt="conceptual modeling" width="600">
 </a>
 
-- Lucidchart
+<br>
+
+**part 2 - practice conceptual ER diagram in lucidcharts**
+
+video coming soon ... 
+
+
+
+<!-- <a href="https://youtu.be/iEuB7TyarlQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_modeling/erd_conceptul_lucid.png?raw=true" alt="lucid charts" width="600">
+</a>  -->
+
+
+## Read more 👓
+
+- [entity-relationship model - wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+- [cardinality - wikipedia](<https://en.wikipedia.org/wiki/Cardinality_(data_modeling)>)
+- [Cardinality in DBMS - geeksforgeeks (2024)](https://www.geeksforgeeks.org/cardinality-in-dbms/)
+- [Data models in DBMS - geeksforgeeks (2025)](https://www.geeksforgeeks.org/data-models-in-dbms/?ref=next_article_top)
+- [Crows foot notation - P. Dybka (2016), Vertabelo](https://vertabelo.com/blog/crow-s-foot-notation/)
+- [Conceptual model - wikipedia](https://en.wikipedia.org/wiki/Conceptual_model)
+- [Data model - wikipedia](https://en.wikipedia.org/wiki/Data_model)
 
 
 ## Other videos 📹
 
-## Read more 👓
+- [Introduction to data models - Neso Academy (2023)](https://www.youtube.com/watch?v=OwQoj3GJfNY)
