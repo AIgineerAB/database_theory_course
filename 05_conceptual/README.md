@@ -9,11 +9,12 @@ In this lecture we'll go into the conceptual part of data modeling
 </a>
 
 <br>
+<br>
 
 **part 2 - practice conceptual ER diagram in lucidcharts**
 
 <a href="https://youtu.be/0J9asJwZN8Q" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_modeling/erd_conceptul_lucid.png?raw=true" alt="lucid charts" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_modeling/lucidchart.png?raw=true" alt="lucid charts" width="600">
 </a> 
 
 
