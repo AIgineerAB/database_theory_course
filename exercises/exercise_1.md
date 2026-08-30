@@ -1,58 +1,106 @@
 # Exercise 1 - Data modeling and implementation
 
-In this exercise, you get to familiarize yourself with ...
+In this exercise, you get to familiarize yourself with data modeling conceptual and logical ERD.
 
-## 0. practical exercise
+## 1. Conceptual ERD to words
 
-DESCRIPTION
+This is an ERD conceptual diagram that a database designer and the business stakeholders agreed upon in a car rental company called Carent.
 
-&nbsp; a)
+<img src="https://github.com/kokchun/assets/blob/main/data_modeling/car_rental.png?raw=true" alt="course structure" width="500">
 
-&nbsp; b)
+a) Describe the entities in this conceptual ERD.
 
-&nbsp; c)
+b) Write out the relationship labels.
 
-&nbsp; d)
+c) Describe the relationships between the entities (one-to-many, one-to-one and many-to-many).
 
-&nbsp; e)
+d) Define the relationship statement for example: "A Customer can have one or more Rentals".
 
-## 1. practical exercise
+## 2. Car rental logical
 
-DESCRIPTION
+This is a continuation of previous ERD
 
-&nbsp; a)
+a) Propose possible attributes for each entity, write a relation schema.
 
-&nbsp; b)
+b) Create a logical ERD for Carent
 
-&nbsp; c)
+c) Create actual tables with fake data. Use excel or pen and paper.
 
-&nbsp; d)
+d) Now implement these tables using SQL.
 
-&nbsp; e)
+## 3. Onshop
 
-## 2. Theory questions
+An e-commerce platform Onshop manages customers, orders, and products.
 
-DESCRIPTION
+- a customer can place multiple orders.
+- each order can contain multiple products.
+- a product can belong to multiple categories.
 
-&nbsp; a)
+a) Identify key entities and their attributes (e.g., customer_name, order_date)
 
-&nbsp; b)
+b) Sketch the conceptual ERD.
 
-&nbsp; c)
+c) Create a logical ERD
+
+d) Create tables with fake data to represent this. Use excel or pen and paper.
+
+e) Now implement these using SQL.
+
+## 4. Artists and songs
+
+An artist can sing several songs and a song can have several artists. 
+
+a) Create a conceptual ERD for this 
+
+b) Try to create a table with some fake data to represent this many-to-many relationship. Use excel or pen and paper.
+
+c) Now create a logical ERD where you break up the many-to-many relationship with a composite entity. 
+
+d) Now try to create tables with fake data. Use excel or pen and paper.
+
+e) Now implement this using SQL
+
+## 5. Theory questions
+
+a) What is a conceptual data model, and why is it important?
+
+b) How do conceptual model differ from logical data model and which one is best to have?
+
+c) Why is a many-to-many relationship not possible to implement directly?
+
+d) How do you break up a many-to-many relationship?
+
+e) What is cardinality in data modeling, and why is it important?
+
+f) What are the different steps of data modeling?
+
+g) How does crows foot notation relate and differ from chens notation? 
+
 
 ## Glossary
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
-| terminology | explanation |
-| ----------- | ----------- |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
+| terminology         | explanation |
+| ------------------- | ----------- |
+| entity              |             |
+| relational model    |             |
+| conceptual model    |             |
+| logical model       |             |
+| physical model      |             |
+| ERD                 |             |
+| data modeling       |             |
+| composite entity    |             |
+| primary key         |             |
+| field               |             |
+| attribute           |             |
+| data type           |             |
+| foreign key         |             |
+| transaction         |             |
+| cardinality         |             |
+| one-to-one          |             |
+| one-to-many         |             |
+| many-to-many        |             |
+| crows foot notation |             |
+|                     |             |
+|                     |             |
