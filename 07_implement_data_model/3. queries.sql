@@ -2,15 +2,15 @@ SELECT * FROM product;
 SELECT * FROM "Order";
 SELECT * FROM customer;
 
-select 
+SELECT 
     c.first_name, 
     c.last_name,
     p.product_name
-from orderline ol
-left join "Order" o 
+FROM orderline ol
+LEFT JOIN "Order" o 
     ON o.order_id = ol.order_id 
-left join customer c 
+LEFT JOIN customer c 
     ON c.customer_id = o.customer_id
-left join product p 
+LEFT JOIN product p 
     ON p.product_id = ol.product_id
 ;
