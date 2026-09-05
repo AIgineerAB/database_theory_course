@@ -1,7 +1,7 @@
 # Implementing logical data model in SQL
 
 <a href="https://youtu.be/rHf1V4SeX-U" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/FOLDER_NAME/.png?raw=true" alt="DESCRIPTION" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/databasteori/postgres_implement.png?raw=true" alt="implementation" width="600">
 </a>
 
 
